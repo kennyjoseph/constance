@@ -1,0 +1,3499 @@
+actual,predicted,model
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Trump,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Trump,poltweet
+Trump,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+A_None,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+A_None,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+A_None,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+A_None,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Trump,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+A_None,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Trump,poltweet
+Trump,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Trump,Clinton,poltweet
+Trump,Trump,poltweet
+A_None,Clinton,poltweet
+Trump,Trump,poltweet
+A_None,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Clinton,Trump,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+A_None,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Trump,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Trump,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Trump,Trump,poltweet
+Trump,Trump,poltweet
+Clinton,Trump,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+A_None,Clinton,poltweet
+Trump,Trump,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+A_None,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+A_None,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Trump,Trump,poltweet
+A_None,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Clinton,poltweet
+Clinton,Clinton,poltweet
+Trump,Trump,poltweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Trump,Trump,prevtweet
+Trump,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+A_None,Clinton,prevtweet
+Trump,Trump,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+A_None,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+A_None,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+A_None,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+A_None,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Trump,Trump,prevtweet
+Trump,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Trump,Clinton,prevtweet
+Trump,Trump,prevtweet
+A_None,Clinton,prevtweet
+Trump,Trump,prevtweet
+A_None,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Trump,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+A_None,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Trump,Trump,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Trump,Trump,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Trump,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Trump,prevtweet
+Trump,Trump,prevtweet
+Trump,Trump,prevtweet
+Trump,Trump,prevtweet
+Clinton,Trump,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+A_None,Clinton,prevtweet
+Trump,Trump,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+A_None,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Trump,prevtweet
+Clinton,Clinton,prevtweet
+A_None,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Trump,Trump,prevtweet
+A_None,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Clinton,prevtweet
+Clinton,Clinton,prevtweet
+Trump,Trump,prevtweet
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Trump,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Trump,Trump,polparty
+Trump,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+A_None,Clinton,polparty
+Trump,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+A_None,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+A_None,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+A_None,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Clinton,Trump,polparty
+Trump,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Trump,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Trump,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+A_None,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Trump,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Trump,Trump,polparty
+Trump,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Trump,Clinton,polparty
+Trump,Trump,polparty
+A_None,Clinton,polparty
+Trump,Trump,polparty
+A_None,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Trump,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+A_None,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Trump,Trump,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Trump,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Trump,Trump,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Trump,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Trump,polparty
+Trump,Trump,polparty
+Trump,Trump,polparty
+Trump,Trump,polparty
+Clinton,Trump,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+A_None,Clinton,polparty
+Trump,Trump,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Trump,Trump,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+A_None,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+A_None,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Trump,Trump,polparty
+A_None,Trump,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Clinton,polparty
+Clinton,Clinton,polparty
+Trump,Trump,polparty
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Trump,partialuser
+Trump,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+A_None,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+A_None,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+A_None,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+A_None,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+A_None,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Trump,partialuser
+Trump,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Trump,Clinton,partialuser
+Trump,Trump,partialuser
+A_None,Clinton,partialuser
+Trump,Trump,partialuser
+A_None,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Trump,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+A_None,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Trump,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Trump,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Trump,Trump,partialuser
+Trump,Trump,partialuser
+Clinton,Trump,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+A_None,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+A_None,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+A_None,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Trump,Trump,partialuser
+A_None,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Clinton,partialuser
+Clinton,Clinton,partialuser
+Trump,Trump,partialuser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Trump,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Trump,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Trump,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+A_None,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Trump,fulluser
+A_None,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+A_None,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+A_None,Clinton,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Trump,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+A_None,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Trump,fulluser
+Trump,Clinton,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Clinton,fulluser
+A_None,Clinton,fulluser
+Trump,Clinton,fulluser
+A_None,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Trump,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+A_None,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Trump,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Trump,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Trump,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Trump,fulluser
+Trump,Trump,fulluser
+Trump,Trump,fulluser
+Trump,Trump,fulluser
+Clinton,Trump,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+A_None,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Trump,Trump,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Trump,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+A_None,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Trump,fulluser
+Clinton,Clinton,fulluser
+A_None,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Trump,Trump,fulluser
+A_None,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Clinton,fulluser
+Clinton,Clinton,fulluser
+Trump,Trump,fulluser
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Trump,Trump,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Trump,Trump,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Trump,none
+Trump,Trump,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Trump,Clinton,none
+Trump,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+A_None,Clinton,none
+Trump,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+A_None,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+A_None,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+A_None,Clinton,none
+Trump,Trump,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Trump,Trump,none
+Clinton,Clinton,none
+Trump,Trump,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+A_None,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Trump,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Trump,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Trump,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Trump,Trump,none
+Trump,Clinton,none
+Trump,Trump,none
+Clinton,Clinton,none
+Trump,Trump,none
+Trump,Clinton,none
+Trump,Clinton,none
+A_None,Clinton,none
+Trump,Clinton,none
+A_None,Clinton,none
+Clinton,Clinton,none
+Trump,Trump,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Trump,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+A_None,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,A_None,none
+Trump,Clinton,none
+Trump,Trump,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,A_None,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Trump,Trump,none
+Trump,Trump,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Trump,none
+Trump,Trump,none
+Trump,Trump,none
+Clinton,Trump,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+A_None,Clinton,none
+Trump,Clinton,none
+Trump,Trump,none
+Clinton,Clinton,none
+Trump,Trump,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Trump,Trump,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+A_None,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+A_None,Clinton,none
+Clinton,Clinton,none
+Trump,Trump,none
+Trump,Trump,none
+A_None,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Clinton,Clinton,none
+Trump,Clinton,none
+Clinton,Clinton,none
+Trump,Trump,none
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Trump,Trump,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Trump,All
+Trump,Trump,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Trump,Trump,All
+Trump,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+A_None,Clinton,All
+Trump,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+A_None,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+A_None,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+A_None,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Trump,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+A_None,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Trump,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Trump,Trump,All
+Trump,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Trump,Trump,All
+Trump,Clinton,All
+Trump,Trump,All
+A_None,Clinton,All
+Trump,Trump,All
+A_None,Clinton,All
+Clinton,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Clinton,Trump,All
+Trump,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+A_None,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Trump,Trump,All
+Trump,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Trump,Trump,All
+Trump,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Trump,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Trump,All
+Trump,Trump,All
+Trump,Trump,All
+Trump,Trump,All
+Clinton,Trump,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+A_None,Clinton,All
+Trump,Trump,All
+Trump,Trump,All
+Clinton,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Trump,Trump,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+A_None,Clinton,All
+Clinton,Clinton,All
+Clinton,Trump,All
+Clinton,Clinton,All
+A_None,Clinton,All
+Clinton,Clinton,All
+Trump,Trump,All
+Trump,Trump,All
+A_None,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Clinton,Clinton,All
+Trump,Clinton,All
+Clinton,Clinton,All
+Trump,Trump,All
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Clinton,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Trump,Trump,Full
+Clinton,Trump,Full
+Trump,Clinton,Full
+Trump,Trump,Full
+Trump,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+A_None,Clinton,Full
+Trump,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+A_None,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+A_None,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+A_None,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Clinton,Trump,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+A_None,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Trump,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,A_None,Full
+Trump,Trump,Full
+Trump,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Trump,Clinton,Full
+Trump,Trump,Full
+A_None,Clinton,Full
+Trump,Trump,Full
+A_None,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Trump,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+A_None,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,A_None,Full
+Trump,Trump,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,A_None,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Trump,Trump,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Trump,Trump,Full
+Trump,Trump,Full
+Clinton,Trump,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+A_None,Clinton,Full
+Trump,Trump,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+A_None,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Trump,Full
+Clinton,Clinton,Full
+A_None,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Trump,Trump,Full
+A_None,A_None,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Clinton,Clinton,Full
+Trump,Clinton,Full
+Clinton,Clinton,Full
+Trump,Trump,Full
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+A_None,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+A_None,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+A_None,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+A_None,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+A_None,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+A_None,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+A_None,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Trump,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+A_None,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Trump,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+A_None,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+A_None,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+A_None,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+A_None,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Clinton,Pol Tweet Context
+Clinton,Clinton,Pol Tweet Context
+Trump,Trump,Pol Tweet Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Trump,Trump,One Context
+Clinton,Trump,One Context
+Trump,Clinton,One Context
+Trump,Trump,One Context
+Trump,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+A_None,Clinton,One Context
+Trump,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+A_None,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+A_None,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+A_None,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Trump,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+A_None,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Trump,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Trump,Trump,One Context
+Trump,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Trump,Clinton,One Context
+Trump,Trump,One Context
+A_None,Clinton,One Context
+Trump,Trump,One Context
+A_None,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Trump,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+A_None,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Trump,Trump,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Trump,Trump,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Trump,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Trump,Trump,One Context
+Trump,Trump,One Context
+Clinton,Trump,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+A_None,Clinton,One Context
+Trump,Trump,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+A_None,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Trump,One Context
+Clinton,Clinton,One Context
+A_None,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Trump,Trump,One Context
+A_None,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Clinton,One Context
+Clinton,Clinton,One Context
+Trump,Trump,One Context
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Trump,A_None,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Trump,Trump,One Annotator
+Clinton,Trump,One Annotator
+Trump,Clinton,One Annotator
+Trump,Trump,One Annotator
+Trump,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+A_None,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+A_None,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+A_None,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+A_None,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+A_None,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,A_None,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,A_None,One Annotator
+Trump,Trump,One Annotator
+Trump,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Trump,Clinton,One Annotator
+Trump,Trump,One Annotator
+A_None,Clinton,One Annotator
+Trump,Trump,One Annotator
+A_None,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Trump,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,A_None,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+A_None,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,A_None,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,A_None,One Annotator
+Trump,Trump,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Trump,One Annotator
+Trump,Clinton,One Annotator
+Clinton,A_None,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Trump,Trump,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Trump,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Trump,One Annotator
+Trump,Trump,One Annotator
+Trump,Trump,One Annotator
+Trump,Trump,One Annotator
+Clinton,Trump,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+A_None,A_None,One Annotator
+Trump,Trump,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+A_None,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+A_None,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
+Trump,Trump,One Annotator
+A_None,A_None,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Clinton,One Annotator
+Clinton,Clinton,One Annotator
+Trump,Trump,One Annotator
