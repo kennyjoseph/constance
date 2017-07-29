@@ -45,21 +45,58 @@ df_spr <- spread(df, model, predicted)
 
 r <- boot(df_spr, statistic=diff_avg_f1,R=1000,col1="poltweet",col2="fulluser")
 boot.ci(r, type="bca")
-
 wilcox.test(lldf[model=="poltweet"]$logloss, lldf[model=="fulluser"]$logloss,alternative="greater")
 
 
 # Compare Constance to the best baseline model
 r <- boot(df_spr, statistic=diff_avg_f1,R=1000,col1="Full",col2="All")
 boot.ci(r, type="bca")
-
 wilcox.test(lldf[model=="Full"]$logloss, lldf[model=="poltweet"]$logloss,alternative="greater")
 
 
 r <- boot(df_spr, statistic=diff_avg_f1,R=1000,col1="One Annotator",col2="All")
 boot.ci(r, type="bca")
+wilcox.test(lldf[model=="One Annotator"]$logloss, lldf[model=="poltweet"]$logloss,alternative="greater")
 
+
+r <- boot(df_spr, statistic=diff_avg_f1,R=1000,col1="One Context",col2="All")
+boot.ci(r, type="bca")
 wilcox.test(lldf[model=="One Context"]$logloss, lldf[model=="poltweet"]$logloss,alternative="greater")
+
+r <- boot(df_spr, statistic=diff_avg_f1,R=1000,col1="Pol Tweet Context",col2="All")
+boot.ci(r, type="bca")
+wilcox.test(lldf[model=="Pol Tweet Context"]$logloss, lldf[model=="poltweet"]$logloss,alternative="greater")
+
+
+# 3
+r <- boot(df_spr, statistic=diff_avg_f1,R=1000,col1="Full",col2="One Annotator")
+boot.ci(r, type="bca")
+wilcox.test(lldf[model=="Full"]$logloss, lldf[model=="One Annotator"]$logloss,alternative="greater")
+
+# 2 
+r <- boot(df_spr, statistic=diff_avg_f1,R=1000,col1="Full",col2="One Context")
+boot.ci(r, type="bca")
+wilcox.test(lldf[model=="Full"]$logloss, lldf[model=="One Context"]$logloss,alternative="greater")
+
+# 1 
+r <- boot(df_spr, statistic=diff_avg_f1,R=1000,col1="Full",col2="Pol Tweet Context")
+boot.ci(r, type="bca")
+wilcox.test(lldf[model=="Full"]$logloss, lldf[model=="Pol Tweet Context"]$logloss,alternative="greater")
+
+
+# Model poltweet vs poltweet
+r <- boot(df_spr, statistic=diff_avg_f1,R=1000,col1="Pol Tweet Context",col2="poltweet")
+boot.ci(r, type="bca")
+wilcox.test(lldf[model=="Pol Tweet Context"]$logloss, lldf[model=="poltweet"]$logloss,alternative="greater")
+
+
+
+
+
+r <- boot(df_spr, statistic=diff_avg_f1,R=1000,col1="All",col2="poltweet")
+boot.ci(r, type="bca")
+wilcox.test(lldf[model=="All"]$logloss, lldf[model=="poltweet"]$logloss,alternative="greater")
+
 
 
 
