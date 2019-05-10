@@ -45,7 +45,7 @@ The columns in each file are described below.
  - prev2 - The text of the second most recent tweet from the user before the anchor tweet
  - pol_prev1 - The text of the most recent political tweet from the user before the anchor tweet
  - pol_prev2 - The text of the second most recent political tweet from the user before the anchor tweet
- - tertiary_rating - The tertiary rating of the tweet (collapsing "Definitely Supports/Opposes" with "Probably Supports/Opposes"). -1 imples "Pro-Trump", +1 implies "Pro-Clinton", a 0 is Neutral
+ - tertiary_rating - The tertiary rating of the tweet (collapsing "Definitely Supports/Opposes" with "Probably Supports/Opposes"). -1 imples "Pro-[target field, Donal Trump or Hillary Clinton]", +1 implies "Pro-[target field, Donal Trump or Hillary Clinton]", a 0 is Neutral
 
 
 
